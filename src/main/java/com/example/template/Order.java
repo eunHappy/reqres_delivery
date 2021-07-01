@@ -21,7 +21,7 @@ public class Order {
     }
 
     public Long getProductId() {
-        return productId;
+        return productId; 
     }
 
     public void setProductId(Long productId) {
